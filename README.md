@@ -2,7 +2,7 @@
 This desktop app calculates a users Basal Metabolic Rate (BMR).
 
 ## Installation
-There is a .exe file readily available so no installation required
+There is a .exe file readily available so no installation is required
 
 ## Contributions
 It was built using the .NET Framework ver. 4.8 and Windows Form.NET, so this app will only work on Windows platforms.
