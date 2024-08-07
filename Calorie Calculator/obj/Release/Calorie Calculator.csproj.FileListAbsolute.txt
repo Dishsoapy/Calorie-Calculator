@@ -1,0 +1,14 @@
+C:\Projects\Calorie Calculator\Calorie Calculator\bin\Release\Calorie Calculator.exe.config
+C:\Projects\Calorie Calculator\Calorie Calculator\bin\Release\Calorie Calculator.exe
+C:\Projects\Calorie Calculator\Calorie Calculator\bin\Release\Calorie Calculator.pdb
+C:\Projects\Calorie Calculator\Calorie Calculator\obj\Release\Calorie Calculator.csproj.AssemblyReference.cache
+C:\Projects\Calorie Calculator\Calorie Calculator\obj\Release\Calorie_Calculator.formBMRCalculator.resources
+C:\Projects\Calorie Calculator\Calorie Calculator\obj\Release\Calorie_Calculator.Properties.Resources.resources
+C:\Projects\Calorie Calculator\Calorie Calculator\obj\Release\Calorie Calculator.csproj.GenerateResource.cache
+C:\Projects\Calorie Calculator\Calorie Calculator\obj\Release\Calorie Calculator.csproj.CoreCompileInputs.cache
+C:\Projects\Calorie Calculator\Calorie Calculator\obj\Release\Calorie Calculator.exe
+C:\Projects\Calorie Calculator\Calorie Calculator\obj\Release\Calorie Calculator.pdb
+C:\Projects\Calorie Calculator\Calorie Calculator\bin\Release\Calorie Calculator.exe.manifest
+C:\Projects\Calorie Calculator\Calorie Calculator\bin\Release\Calorie Calculator.application
+C:\Projects\Calorie Calculator\Calorie Calculator\obj\Release\Calorie Calculator.exe.manifest
+C:\Projects\Calorie Calculator\Calorie Calculator\obj\Release\Calorie Calculator.application

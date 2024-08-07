@@ -1,0 +1,10 @@
+C:\Projects\Calorie Calculator\Calorie Calculator\bin\Debug\Calorie Calculator.exe.config
+C:\Projects\Calorie Calculator\Calorie Calculator\bin\Debug\Calorie Calculator.exe
+C:\Projects\Calorie Calculator\Calorie Calculator\bin\Debug\Calorie Calculator.pdb
+C:\Projects\Calorie Calculator\Calorie Calculator\obj\Debug\Calorie Calculator.csproj.AssemblyReference.cache
+C:\Projects\Calorie Calculator\Calorie Calculator\obj\Debug\Calorie_Calculator.Properties.Resources.resources
+C:\Projects\Calorie Calculator\Calorie Calculator\obj\Debug\Calorie Calculator.csproj.GenerateResource.cache
+C:\Projects\Calorie Calculator\Calorie Calculator\obj\Debug\Calorie Calculator.csproj.CoreCompileInputs.cache
+C:\Projects\Calorie Calculator\Calorie Calculator\obj\Debug\Calorie Calculator.exe
+C:\Projects\Calorie Calculator\Calorie Calculator\obj\Debug\Calorie Calculator.pdb
+C:\Projects\Calorie Calculator\Calorie Calculator\obj\Debug\Calorie_Calculator.formBMRCalculator.resources
